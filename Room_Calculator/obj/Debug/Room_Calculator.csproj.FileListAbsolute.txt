@@ -1,0 +1,6 @@
+/Users/katedatema/Projects/Room_Calculator/Room_Calculator/bin/Debug/Room_Calculator.exe
+/Users/katedatema/Projects/Room_Calculator/Room_Calculator/bin/Debug/Room_Calculator.pdb
+/Users/katedatema/Projects/Room_Calculator/Room_Calculator/obj/Debug/Room_Calculator.csprojAssemblyReference.cache
+/Users/katedatema/Projects/Room_Calculator/Room_Calculator/obj/Debug/Room_Calculator.csproj.CoreCompileInputs.cache
+/Users/katedatema/Projects/Room_Calculator/Room_Calculator/obj/Debug/Room_Calculator.exe
+/Users/katedatema/Projects/Room_Calculator/Room_Calculator/obj/Debug/Room_Calculator.pdb
